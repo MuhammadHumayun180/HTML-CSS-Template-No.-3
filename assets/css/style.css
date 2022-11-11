@@ -1,0 +1,6 @@
+.navigation ul {background: #000; }
+.navigation ul li{display: inline-block;}
+.navigation ul li a{padding: 20px 20px; display: block;  color: #fff; text-decoration: none;}
+.navigation ul li a i{ color: #fff; padding-right: 5px;  font-size: 16px;}
+.navigation ul li a:hover{background:#ccc; color:#000;}
+.navigation ul li a:hover i{color: #000;}

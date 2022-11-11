@@ -1,0 +1,32 @@
+/*<!-- sections -->*/
+body{margin:0;}
+.section{ padding-top: 15px;border-bottom-color: #e2e2e2;
+border-bottom-style:solid;border-bottom-width:.75pt;
+font-family: "Open Sans","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif; width: 100% ; background-color: #fff;}
+.section h3 {text-transform: uppercase; color: #999595;font-size: small;font-weight: lighter;padding-left: 18pt;}
+html{ font-family: "Open Sans","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;}    
+.li-active{height: 35px;width: 100%;height: 47px;width: 60%;background-color: #fff2db;}
+.li-active a{color: orange; font-family: "Open Sans","HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;margin-left: 12%;}
+.li-active a:hover{color: grey; background-color: #fff2db;}
+.li-active:hover{background-color: #fff2db;}
+li{list-style: none; width:100%;height: auto; }
+a{text-decoration-line: none;font-weight: 500;    font-size: .875pc;    line-height: .489583333in;}
+/*a:hover{background-color: #ededed;}*/
+ul{padding-left: 0;}
+.section li {height: 35px;width: 100%;height: 47px;width: 100%;}
+.section li:hover {background-color: #ededed;}
+.section li a{margin-left: 12%;}
+.grey-a{color: #6d6d6d; }
+
+/*section 2 work*/
+.section ul li a img {width: 14%;border-radius: 100%;margin-right: .9375pc;}
+.btn-labl{padding-left: 2rem;padding-right: 2rem;
+height: .375in; margin-left:11%;margin-right: 11%; font-size: 10.5pt;font-weight: 600;
+ transition: all .08s ease 0s;background: linear-gradient(to right,red,orange);border-radius: 375pt;}
+.section label a {color:#ffff;}
+
+/*section 3 work*/
+
+/*section 4 work*/
+.section p {margin-left: 12%;    color: #6d6d6d;}
+
